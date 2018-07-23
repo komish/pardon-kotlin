@@ -19,9 +19,7 @@ info: kotlinc-jvm 1.2.51 (JRE 10.0.1+10)
 
 ## Purpose
 
-```
 This project is a  personal learning project and an initial foray into the Kotlin language. This should not be considered a marker of proper Kotlin syntax, grammar, or concepts.
-```
 
 ## Sample Execution
 

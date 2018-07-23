@@ -1,10 +1,9 @@
-# Pardon (Kotlin)
+# Pardon? (Kotlin)
 
 "Pardon" is a NATO Phonetic Alphabet Translator concept, implemented in various languages. Original implementation in Python ([here](https://github.com/komish/pardon)), the concept is to take a string and print out the phonetic representation of the string characters. 
 
-This project is an initial foray into the Kotlin language for learning purposes, and should not be considered a marker of good Kotlin syntax, grammar, or concepts.
 
-## Environment Details
+## Environment
 
 At least, what is perceived to be potentially relevant
 
@@ -18,10 +17,10 @@ $ kotlinc -version
 info: kotlinc-jvm 1.2.51 (JRE 10.0.1+10)
 ```
 
-## Compile
+## Purpose
 
 ```
-$ kotlinc pardon.kt -include-runtime -d pardon.jar
+This project is a  personal learning project and an initial foray into the Kotlin language. This should not be considered a marker of proper Kotlin syntax, grammar, or concepts.
 ```
 
 ## Sample Execution
@@ -40,3 +39,10 @@ $ java -jar pardon.jar hello world hunter2
 
 	Hotel Uniform November Tango Echo Romeo Two
 ```
+
+## Compile
+
+```
+$ kotlinc pardon.kt -include-runtime -d pardon.jar
+```
+
